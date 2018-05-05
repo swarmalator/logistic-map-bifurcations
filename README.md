@@ -1,1 +1,1 @@
-# logistic-map-chaos
+# Logistic Map Chaos
